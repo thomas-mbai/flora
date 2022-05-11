@@ -1,0 +1,109 @@
+<div class="sidebar" data-image="../assets/img/sidebar-5.jpg" data-color="red">
+    <div class="sidebar-wrapper">
+            <!--<div class="logo">
+            <img src="../images/logo.png" alt="Logo" srcset="" id="logo">
+            <span id="welcome">Welcome Richard</span> 
+        </div> -->
+        <ul class="nav">
+            <li class="nav-item" id="dashboard">
+                <a class="nav-link" href="main.php">
+                    <i class="nc-icon nc-chart"></i>
+                    <p>Dashboard</p>
+                </a>
+            </li>
+            
+            <li class="nav-item" id="production">
+                <a class="nav-link" href="production.php">
+                    <i class="nc-icon nc-notes"></i>
+                    <p>Production</p>
+                </a>
+            </li>
+
+            <li class="nav-item" id="receivingbay">
+                <a class="nav-link" href="receivingbay.php">
+                    <i class="nc-icon nc-cloud-download-93"></i>
+                    <p>Receiving Bay</p>
+                </a>
+            </li>
+            
+            <li class="nav-item" id="randomchecks">
+                <a class="nav-link" href="randomchecks.php">
+                    <i class="nc-icon nc-check-2"></i>
+                    <p>Checks</p>
+                </a>
+            </li>
+            
+            <li class="nav-item" id="grading">
+                <a class="nav-link" href="grading.php">
+                    <i class="nc-icon nc-ruler-pencil"></i>
+                    <p>Grading</p>
+                </a>
+            </li>
+            
+             <li class="nav-item" id="packaging">
+                <a class="nav-link" href="packaging.php">
+                    <i class="nc-icon nc-app"></i>
+                    <p>Packaging</p>
+                </a>
+            </li>
+
+            <li class="nav-item" id="dispatch">
+                <a class="nav-link" href="dispatch.php">
+                    <i class="nc-icon nc-delivery-fast"></i>
+                    <p>Dispatch</p>
+                </a>
+            </li>
+
+             <li class="nav-item" id="discard">
+                <a class="nav-link" href="discard.php">
+                    <i class="nc-icon nc-simple-remove"></i>
+                    <p>Discard</p>
+                </a>
+            </li>
+            
+            <li  class="nav-item" id="reports">
+                <a class="nav-link" href="reports.php">
+                    <i class="nc-icon nc-paper-2"></i>
+                    <p>Reports</p>
+                </a>
+            </li>
+           
+            <li class="nav-item" id="notifications">
+                <a class="nav-link" href="notifications.html">
+                    <i class="nc-icon nc-bell-55"></i>
+                    <p>Notifications</p>
+                </a>
+            </li>
+            
+            <li class="nav-item" id="customers">
+                <a class="nav-link" href="customers.php">
+                    <i class="nc-icon nc-single-02"></i> <!---->
+                    <p>Customers</p>
+                </a>
+            </li>
+
+            <li class="nav-item" id="usersmanager">
+                <a class="nav-link" href="usersmanager.php">
+                    <i class="nc-icon nc-circle-09"></i> <!---->
+                    <p>Users</p>
+                </a>
+            </li>
+            
+            <li class="nav-item" id="settings">
+                <a class="nav-link" href="settings.php">
+                    <i class="nc-icon nc-settings-gear-64"></i>
+                    <p>Settings</p>
+                </a>
+            </li>
+           <!-- <li>
+                <a class="nav-link" href="notifications.html">
+                    <i class="nc-icon nc-zoom-split"></i>
+                    <p>Help</p>
+                </a>
+            </li>-->
+        </ul>
+    </div>
+</div>
+
+
+    
